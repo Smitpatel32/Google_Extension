@@ -1,0 +1,14 @@
+{
+    "manifest_version" : 3,
+    "version" : "1.0",
+    "name" : "saving world",
+    
+    "action" :
+    {
+        "default_popup" :"ex.html",
+        "default_icon" : "icn.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
